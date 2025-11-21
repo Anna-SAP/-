@@ -1,0 +1,5 @@
+{
+  "name": "🐿️ 多模态解读",
+  "description": "A Takahashi x Magazine style deep interpretation engine using Gemini to analyze text, images, and video concepts from first principles.",
+  "requestFramePermissions": []
+}
